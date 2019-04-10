@@ -26,7 +26,7 @@ gems:
 social:
   - icon: github
     title: github
-    url: https://agustinadefrancesco.github.io/  
+    url: https://github.com/agustinadefrancesco  
   - icon: envelope-o
     title: email
     url: mailto:agustinadefrancesco@gmail.com
@@ -35,10 +35,7 @@ social:
     url: https://www.linkedin.com/in/agustina-de-francesco-b37a69179/
   - icon: file-pdf-o
     title: CV
-    url: agustinadefrancesco.github.io/De Francesco cv april 2019.pdf
-#  - icon: website
-#    title: CV Lattes
-#    url: http://lattes.cnpq.br/5399100590606067
+    url: img/De Francesco cv april 2019.pdf
   - icon: twitter
     title: twitter
     url: https://twitter.com/agustinadefranc

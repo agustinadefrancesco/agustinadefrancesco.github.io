@@ -1,0 +1,13 @@
+---
+layout: default
+img: UNLP1.JPG
+category: Experiences
+title: "Teaching Assistant"
+description: |
+---
+
+* __2016 – Current__
+* *Universidad Nacional de La Plata*
+* Main goal of my research was screening transgenic citrus lines against Citrus psorosis virus and the transmission of the resistance through the graft. In Maria Laura Garcia lab, Instituto de Biotecnología y Biología Molecular (IBBM) CCT-La Plata, UNLP. 
+
+

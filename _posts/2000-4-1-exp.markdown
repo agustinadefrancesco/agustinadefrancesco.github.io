@@ -1,23 +1,16 @@
 ---
 layout: default
-img: code.jpg
+img: citrus.jpg
 category: Experiences
 title: "Postdoctoral Researcher"
 description: |
 ---
 
-University of California Riverside. Postdoctoral Researcher 2016-Present.
-Developing detection methods for the causal agent of Citrus Huanglongbing (HLB)
-while studying effectoromics, in Wenbo Ma lab, Department of Plant Pathology
-and Microbiology.
- Universidad Nacional de La Plata. Postdoctoral Researcher 2015-2016.
-My research focused on Control of bacterial diseases of citrus by acquired
-resistance and pathogen control, in María Laura Garcia lab, Instituto de
-Biotecnología y Biología Molecular (IBBM) CCT-La Plata, UNLP.
- Universidad Nacional de La Plata. Teaching assistant 2010-2016. See
-teaching and mentoring experience.
- Universidad Nacional de La Plata. Ph.D. Student 2010-2015 
-Main goal of my research was screening transgenic citrus lines against Citrus
-psorosis virus and the transmission of the resistance through the graft. In Maria
-Laura Garcia lab, Instituto de Biotecnología y Biología Molecular (IBBM) CCT-La
-Plata, UNLP. 
+* __2016 – Current__
+* *University of California Riverside*
+* Developing detection methods for the causal agent of Citrus Huanglongbing (HLB) while studying effectoromics, in <a href="https://wenboma.ucr.edu/">Wenbo Ma lab</a>, Department of Plant Pathology and Microbiology.
+
+
+
+
+

@@ -6,6 +6,6 @@ title: "List of Publications"
 description: |
 ---
 
-- [ResearchGate](https://www.researchgate.net/profile/Daniela_Cassol)
-- [GoogleScholar](https://scholar.google.com/citations?user=SJKCmboAAAAJ&hl=en)
-- [Complete list of publications](img/publication.pdf)
+- [ResearchGate](https://www.researchgate.net/profile/Agustina_De_Francesco)
+- [GoogleScholar](https://scholar.google.com/citations?hl=es&user=H4gDxz8AAAAJ)
+- [Complete list of publications](img/De Francesco cv april 2019.pdf)

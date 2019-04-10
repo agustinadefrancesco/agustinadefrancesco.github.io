@@ -1,11 +1,13 @@
 ---
 layout: default
-img: dna.png
+img: explants.jpg
 category: Experiences
-title: "Molecular Biology Bioinformatic Scientist"
+title: "Postdoctoral Researcher"
 description: |
 ---
 
-* __2016 – 2017__
-* *Biogenetika*
-* Conduct laboratory research in the areas of single nucleotide polymorphisms, DNA mutations, exomes sequencing and metagenomics. This involves data collection, DNA isolation, analysis and interpretation of results, including next generation sequencing data, bioinformatics analysis and writing reports.
+* __2015 – 2016__
+* *Universidad Nacional de La Plata*
+* My research focused on Control of bacterial diseases of citrus by acquired resistance and pathogen control, in María Laura Garcia lab, Instituto de Biotecnología y Biología Molecular (IBBM) CCT-La Plata, UNLP.
+
+
