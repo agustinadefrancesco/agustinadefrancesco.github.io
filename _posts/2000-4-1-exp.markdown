@@ -6,7 +6,7 @@ title: "Postdoctoral Researcher"
 description: |
 ---
 
-* __2016 – Current__
+* __2016 – 2020__
 * *University of California Riverside*
 * Developing detection methods for the causal agent of Citrus Huanglongbing (HLB) while studying effectoromics, in <a href="https://wenboma.ucr.edu/">Wenbo Ma lab</a>, Department of Plant Pathology and Microbiology.
 
